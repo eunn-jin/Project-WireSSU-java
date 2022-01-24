@@ -3,5 +3,5 @@
 
 ## 개발 팀 정보
 팀명 : 보안이전공이조  
-팀장 : 송무송([@mosongsong](https://github.com/moosongsong)) 
-팀원 : 조은진([@eunn-jin](https://github.com/eunn-jin), 한해리([@ririhan](https://github.com/RIANAEH)))
+팀장 : 송무송([@mosongsong](https://github.com/moosongsong))  
+팀원 : 조은진([@eunn-jin](https://github.com/eunn-jin)), 한해리([@ririhan](https://github.com/RIANAEH))
